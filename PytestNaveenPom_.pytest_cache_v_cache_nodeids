@@ -1,0 +1,8 @@
+[
+  "Tests/test_LoginPage.py::Test_Login::test_login[chrome]",
+  "Tests/test_LoginPage.py::Test_Login::test_login[firefox]",
+  "Tests/test_LoginPage.py::Test_Login::test_loginpage_title[chrome]",
+  "Tests/test_LoginPage.py::Test_Login::test_loginpage_title[firefox]",
+  "Tests/test_LoginPage.py::Test_Login::test_signup_link_visible[chrome]",
+  "Tests/test_LoginPage.py::Test_Login::test_signup_link_visible[firefox]"
+]

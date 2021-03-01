@@ -1,0 +1,8 @@
+{
+  "Tests/test_LoginPage.py::Test_Login::test_login[chrome]": true,
+  "Tests/test_LoginPage.py::Test_Login::test_login[firefox]": true,
+  "Tests/test_LoginPage.py::Test_Login::test_loginpage_title[chrome]": true,
+  "Tests/test_LoginPage.py::Test_Login::test_loginpage_title[firefox]": true,
+  "Tests/test_LoginPage.py::Test_Login::test_signup_link_visible[chrome]": true,
+  "Tests/test_LoginPage.py::Test_Login::test_signup_link_visible[firefox]": true
+}
